@@ -300,7 +300,7 @@ button {
 /*-- header --*/
 
 .head_top {
-     background-color: #ff0000;
+     background-color: #000;
 }
 
 ul.top_infomation {
@@ -332,7 +332,7 @@ ul.top_infomation li a:hover {
 
 .header_midil {
      width: 100%;
-     background: #fff;
+     background: #07371f;
      height: 80px;
      padding: 23px 30px;
 }
@@ -358,7 +358,7 @@ ul.top_infomation li a:hover {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0px 35px;
-     color: #454546;
+     color: #fafafa;
      font-size: 17px;
      line-height: 20px;
      font-weight: 500;
@@ -368,14 +368,14 @@ ul.top_infomation li a:hover {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #e93225;
+     color: #07371f;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #e93225;
+     color: #07371f;
 }
 
 .di_no {
@@ -474,7 +474,7 @@ ul.email li i {
 #banner1 .carousel-control-next {
      width: 76px;
      height: 76px;
-     background-color: #f74646;
+     background-color: #07371f;
      color: #fff;
      font-size: 45px;
      opacity: 1;
@@ -589,7 +589,7 @@ ul.email li i {
 .wedo {
      padding-top: 85px;
      padding-bottom: 90px;
-     background: #f74646;
+     background: #07371f;
      position: relative;
 }
 

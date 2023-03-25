@@ -11,14 +11,14 @@ $(function () {
 	
 	setTimeout(function () {
 		$('.loader_bg').fadeToggle();
-	}, 1500);
+	}, 100);
 	
 	/* Tooltip
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 	
-	$(document).ready(function(){
-		$('[data-toggle="tooltip"]').tooltip();
-	});
+	// $(document).ready(function(){
+	// 	$('[data-toggle="tooltip"]').tooltip();
+	// });
 	
 	
 	
