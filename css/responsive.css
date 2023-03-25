@@ -125,7 +125,7 @@ File Name: responsive.css
     }
     .navigation.navbar {
         float: right;
-        display: inherit !important;
+        /* display: inherit !important; */
         padding: 0;
         width: 100%;
     }
@@ -151,7 +151,7 @@ File Name: responsive.css
         margin-top: 6px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(../images/menu_icon.png);
+        /* background: url(../images/menu_icon.png); */
         background-repeat: no-repeat;
         width: 48px;
         float: right;
@@ -250,10 +250,10 @@ File Name: responsive.css
     }
     .navigation.navbar {
         float: right;
-        display: inherit !important;
+        /* display: inherit !important; */
         padding: 0;
         width: 100%;
-        margin-top: -33px;
+        margin-top: -28px;
     }
     .navigation .navbar-collapse {
         background: #111111;
@@ -276,7 +276,7 @@ File Name: responsive.css
         outline: inherit;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(../images/menu_icon.png);
+        /* background: url(../images/menu_icon.png); */
         background-repeat: no-repeat;
         width: 48px;
     }

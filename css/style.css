@@ -118,14 +118,6 @@ button:focus {
      outline: none;
 }
 
-ul,
-li,
-ol {
-     margin: 0px;
-     padding: 0px;
-     list-style: none;
-}
-
 p {
      margin: 0px;
      font-weight: 500;
@@ -337,7 +329,9 @@ ul.top_infomation li a:hover {
      padding: 23px 30px;
 }
 
-
+.logo_img {
+     background: #07371f;
+}
 .navigation.navbar {
      padding: 0;
      text-align: center;
@@ -368,7 +362,7 @@ ul.top_infomation li a:hover {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #07371f;
+     color: #787979;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
@@ -622,6 +616,16 @@ ul.email li i {
      line-height: 22px;
      padding-bottom: 10px;
 }
+
+.wedo_list {
+     color: #fff;
+     margin: 0px;
+     padding-left: 20px;
+     font-weight: 500;
+     font-size: 17px;
+     line-height: 30px;
+}
+
 
 .wedo_box p {
      color: #fff;
