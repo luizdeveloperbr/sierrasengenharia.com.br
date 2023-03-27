@@ -129,20 +129,20 @@ File Name: responsive.css
         padding: 0;
         width: 100%;
     }
-    .navigation .navbar-collapse {
+    /* .navigation .navbar-collapse {
         background: #111111;
         padding: 20px;
         margin-top: 59px;
         position: absolute;
         width: 100%;
         z-index: 999;
-    }
+    } */
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
         color: #fff;
         text-align: center;
     }
-    .navigation.navbar-dark .navbar-toggler {
+    /* .navigation.navbar-dark .navbar-toggler {
         border: inherit;
         float: right;
         padding: 0;
@@ -151,11 +151,10 @@ File Name: responsive.css
         margin-top: 6px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        /* background: url(../images/menu_icon.png); */
         background-repeat: no-repeat;
         width: 48px;
         float: right;
-    }
+    } */
     .d_none {
         display: none;
     }
@@ -255,14 +254,14 @@ File Name: responsive.css
         width: 100%;
         margin-top: -28px;
     }
-    .navigation .navbar-collapse {
+    /* .navigation .navbar-collapse {
         background: #111111;
         padding: 20px;
         margin-top: 58px;
         position: absolute;
         width: 100%;
         z-index: 999;
-    }
+    } */
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
         color: #fff;

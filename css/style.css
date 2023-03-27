@@ -145,7 +145,7 @@ a,
 
 img {
      max-width: 100%;
-     height: auto;
+     /* height: auto; */
 }
 
  :focus {
@@ -478,11 +478,11 @@ ul.email li i {
      z-index: 999;
 }
 
-#banner1 .carousel-control-prev {
+/* #banner1 .carousel-control-prev {
      left: inherit;
      right: 0;
      top: 30%;
-}
+} */
 
 #banner1 .carousel-control-next {
      right: 0;
@@ -540,7 +540,7 @@ ul.email li i {
      height: 100%;
      left: -13px;
      top: 0;
-     background: url(../images/icon_left1.jpg);
+     /* background: url(../images/icon_left1.jpg); */
      background-position: center;
      background-repeat: no-repeat;
 }
@@ -560,7 +560,7 @@ ul.email li i {
 .left_be figure:before {
      position: absolute;
      left: 18%;
-     background: url(../images/icon_left2.jpg);
+     /* background: url(../images/icon_left2.jpg); */
      background-repeat: no-repeat;
      background-position: center;
 }
@@ -832,7 +832,7 @@ ul.email li i {
 /* newslatter */
 
 .newslatter {
-     background: url(../images/subcri.png);
+     /* background: url(../images/subcri.png); */
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -962,13 +962,6 @@ ul.email li i {
      padding-top: 5px;
 }
 
-#client_1 {
-     height: 100px;
-     width: 150px;
-     margin-right: 20px;
-     background-size: cover;
-     background-image: url('https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szBgxTLVGOsBXp7Jb3Tausvq7IyLq0m1NNXk6UBhFL-hPy3R-Wpsl805m2ZRl4RJ4mNBeU7a-tTKGwojTvYvJ8xzRxL7zlvX-8uzYYObm77cE8JLeVQb8uaA-TY1-PRghObYjSE26VtqNYnUI+jWFrRjBQ+EYBmRSwwZ0kg9fjk4=.jpg');
-}
 
 .test_box p {
      padding: 90px 0 40px 0;
