@@ -121,8 +121,8 @@ button:focus {
 p {
      margin: 0px;
      font-weight: 500;
-     font-size: 17px;
-     line-height: 30px;
+     /* font-size: 17px; */
+     /* line-height: 30px; */
      color: #454546;
 }
 
@@ -160,9 +160,10 @@ img {
      font-size: 16px;
 }
 
+
 .lead {
-     font-size: 18px;
-     line-height: 30px;
+     font-size: x-large;
+     /* line-height: 30px; */
      color: #767676;
      margin: 0;
      padding: 0;
@@ -913,7 +914,7 @@ ul.email li i {
      height: 80px;
      left: 5px;
      top: -10px;
-     background: #ff0000;
+     background: #07371f;
 }
 
 .testimonial_banner::after {
@@ -923,7 +924,7 @@ ul.email li i {
      height: 80px;
      right: 5px;
      bottom: -10px;
-     background: #ff0000;
+     background: #07371f;
      z-index: -1;
 }
 
@@ -953,12 +954,20 @@ ul.email li i {
 
 .test_box h4 span {
      font-size: 15px;
-     color: #ff0000;
+     color: #07371f;
      display: flex;
      justify-content: space-between;
      align-content: center;
      line-height: 10px;
      padding-top: 5px;
+}
+
+#client_1 {
+     height: 100px;
+     width: 150px;
+     margin-right: 20px;
+     background-size: cover;
+     background-image: url('https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szBgxTLVGOsBXp7Jb3Tausvq7IyLq0m1NNXk6UBhFL-hPy3R-Wpsl805m2ZRl4RJ4mNBeU7a-tTKGwojTvYvJ8xzRxL7zlvX-8uzYYObm77cE8JLeVQb8uaA-TY1-PRghObYjSE26VtqNYnUI+jWFrRjBQ+EYBmRSwwZ0kg9fjk4=.jpg');
 }
 
 .test_box p {
@@ -977,7 +986,7 @@ ul.email li i {
 }
 
 #myCarousel .carousel-indicators li {
-     background: #ff0000;
+     background: #07371f;
      width: 20px;
      height: 20px;
 }
@@ -1036,7 +1045,7 @@ ul.email li i {
 .main_form .send_btnt {
      font-size: 18px;
      transition: ease-in all 0.5s;
-     background-color: #ff0000;
+     background-color: #07371f;
      text-transform: uppercase;
      color: #fff;
      max-width: 175px;
@@ -1048,11 +1057,11 @@ ul.email li i {
      line-height: 65px;
 }
 
-.main_form .send_btnt:hover {
+/* .main_form .send_btnt:hover {
      background-color: #fff;
      transition: ease-in all 0.5s;
      color: #ff0000;
-}
+} */
 
 #request *::placeholder {
      color: #d5d5d5;
@@ -1061,7 +1070,7 @@ ul.email li i {
 
 ul.contat li {
      display: block;
-     color: #ff0303;
+     color: #07371f;
      text-align: left;
      padding-bottom: 19px;
      font-size: 17px;
@@ -1074,7 +1083,7 @@ ul.contat li i {
      margin-right: 15px;
      text-align: center;
      font-size: 30px;
-     color: #ff0303;
+     /* color: #ff0303; */
      display: flex;
      align-items: center;
      justify-content: center;
@@ -1082,7 +1091,7 @@ ul.contat li i {
 }
 
 ul.contat li a {
-     color: #ff0303;
+     /* color: #ff0303; */
 }
 
 
