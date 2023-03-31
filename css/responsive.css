@@ -170,8 +170,8 @@ File Name: responsive.css
     .header_midil {
         padding: 23px 0px;
     }
-    ul.top_infomation li {
-        font-size: 9px;
+    ul.top_infomation {
+       /* height: ; */
     }
     .owen h1 {
         font-size: 47px;
@@ -252,7 +252,7 @@ File Name: responsive.css
         /* display: inherit !important; */
         padding: 0;
         width: 100%;
-        margin-top: -28px;
+        /* margin-top: -28px; */
     }
     /* .navigation .navbar-collapse {
         background: #111111;
